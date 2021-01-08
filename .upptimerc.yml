@@ -11,7 +11,7 @@ assignees:
   - ogaty
 
 status-website:
-  baseUrl: https://freelance-jp.github.io/upptime
+  baseUrl: /upptime
   name: freelancejp-upptime  
   navbar:
     - title: Status
@@ -26,7 +26,6 @@ status-website:
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
