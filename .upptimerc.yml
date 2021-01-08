@@ -28,15 +28,19 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: www
+      href: https://www.freelance-jp.org/
+    - title: blog
+      href: https://blog.freelance-jp.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  graphs: "25 5 * * *"
+  responseTime: "25 5 * * *"
+  staticSite: "25 5 * * *"
+  summary: "25 5 * * *"
+  updateTemplate: "25 5 * * *"
+  updates: "25 5 * * *"
   uptime: "*/5 * * * *"
