@@ -9,7 +9,9 @@ sites:
     url: https://www.freelance-jp.org/
   - name: blog
     url: https://blog.freelance-jp.org/
-
+assignees: # Users to assign downtime issues (optional)
+  - keizo3
+  - ogaty
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
