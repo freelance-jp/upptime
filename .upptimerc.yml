@@ -1,24 +1,17 @@
-# Change these first
 owner: freelance-jp
-# Your GitHub username
-repo: upptime # Your GitHub repository name
+repo: upptime
 
-# Add your sites here
 sites:
   - name: www
     url: https://www.freelance-jp.org/
   - name: blog
     url: https://blog.freelance-jp.org/
-assignees: # Users to assign downtime issues (optional)
+assignees:
   - keizo3
   - ogaty
+
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  status-website:
-  baseUrl: /upptime # where "repo" is your repository name
+  baseUrl: /upptime
   name: freelancejp-upptime  
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -32,9 +25,6 @@ status-website:
       href: https://www.freelance-jp.org/
     - title: blog
       href: https://blog.freelance-jp.org/
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
   graphs: "0 0 * * *"
