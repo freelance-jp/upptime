@@ -22,7 +22,7 @@
     "url": "https://blog.freelance-jp.org/",
     "icon": "https://favicons.githubusercontent.com/blog.freelance-jp.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1542,
     "timeMonth": 1544,
     "timeYear": 1574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-10": 0
+    }
   }
 ]
