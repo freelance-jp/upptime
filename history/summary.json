@@ -26,9 +26,9 @@
     "url": "https://blog.freelance-jp.org/",
     "icon": "https://favicons.githubusercontent.com/blog.freelance-jp.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -38,6 +38,7 @@
     "timeMonth": 1310,
     "timeYear": 1492,
     "dailyMinutesDown": {
+      "2021-06-16": 0,
       "2021-06-01": 45,
       "2021-03-11": 101,
       "2021-03-10": 83
