@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1253,
-    "timeDay": 2872,
-    "timeWeek": 2678,
-    "timeMonth": 2937,
-    "timeYear": 1290,
+    "time": 1256,
+    "timeDay": 2776,
+    "timeWeek": 2712,
+    "timeMonth": 2932,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2022-06-10": 98
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/blog.freelance-jp.org",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1455,
-    "timeDay": 1632,
-    "timeWeek": 1484,
-    "timeMonth": 1461,
+    "time": 1456,
+    "timeDay": 1599,
+    "timeWeek": 1530,
+    "timeMonth": 1454,
     "timeYear": 1359,
     "dailyMinutesDown": {}
   }
