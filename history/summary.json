@@ -2,7 +2,7 @@
   {
     "name": "www",
     "url": "https://www.freelance-jp.org/",
-    "icon": "https://favicons.githubusercontent.com/www.freelance-jp.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.freelance-jp.org.ico",
     "slug": "www",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1639,
-    "timeDay": 9281,
-    "timeWeek": 3651,
-    "timeMonth": 3434,
-    "timeYear": 1790,
+    "time": 1642,
+    "timeDay": 2810,
+    "timeWeek": 3610,
+    "timeMonth": 3439,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2022-08-22": 57,
       "2022-06-10": 98
@@ -23,7 +23,7 @@
   {
     "name": "blog",
     "url": "https://blog.freelance-jp.org/",
-    "icon": "https://favicons.githubusercontent.com/blog.freelance-jp.org",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.freelance-jp.org.ico",
     "slug": "blog",
     "status": "up",
     "uptime": "99.95%",
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1476,
-    "timeDay": 1460,
+    "time": 1477,
+    "timeDay": 1625,
     "timeWeek": 1454,
-    "timeMonth": 1663,
+    "timeMonth": 1662,
     "timeYear": 1420,
     "dailyMinutesDown": {}
   }
