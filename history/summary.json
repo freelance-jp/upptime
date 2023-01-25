@@ -6,9 +6,9 @@
     "slug": "www",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2160,
     "timeDay": 4894,
@@ -16,7 +16,6 @@
     "timeMonth": 3519,
     "timeYear": 2558,
     "dailyMinutesDown": {
-      "2023-01-25": 7,
       "2022-08-22": 57,
       "2022-06-10": 98
     }
@@ -26,11 +25,11 @@
     "url": "https://blog.freelance-jp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freelance-jp.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1445,
     "timeDay": 3857,
@@ -38,7 +37,7 @@
     "timeMonth": 1507,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2023-01-25": 13
+      "2023-01-25": 0
     }
   }
 ]
