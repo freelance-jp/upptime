@@ -4,9 +4,9 @@
     "url": "https://www.freelance-jp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.freelance-jp.org.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3413,
     "timeMonth": 3279,
     "timeYear": 3399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-19": 0
+    }
   },
   {
     "name": "blog",
