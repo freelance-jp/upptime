@@ -4,19 +4,19 @@
     "url": "https://www.freelance-jp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.freelance-jp.org.ico",
     "slug": "www",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 3422,
-    "timeDay": 3297,
-    "timeWeek": 3413,
-    "timeMonth": 3279,
+    "time": 3423,
+    "timeDay": 3405,
+    "timeWeek": 3426,
+    "timeMonth": 3286,
     "timeYear": 3399,
     "dailyMinutesDown": {
-      "2024-05-19": 0
+      "2024-05-19": 9
     }
   },
   {
