@@ -6,18 +6,16 @@
     "slug": "www",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3423,
-    "timeDay": 3405,
-    "timeWeek": 3426,
-    "timeMonth": 3286,
+    "timeDay": 3121,
+    "timeWeek": 3363,
+    "timeMonth": 3272,
     "timeYear": 3399,
-    "dailyMinutesDown": {
-      "2024-05-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1527,
-    "timeDay": 1616,
-    "timeWeek": 1462,
-    "timeMonth": 1489,
-    "timeYear": 1536,
+    "time": 1526,
+    "timeDay": 990,
+    "timeWeek": 1368,
+    "timeMonth": 1469,
+    "timeYear": 1535,
     "dailyMinutesDown": {}
   }
 ]
