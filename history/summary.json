@@ -22,19 +22,19 @@
     "url": "https://blog.freelance-jp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freelance-jp.org.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1561,
-    "timeDay": 1300,
-    "timeWeek": 1318,
-    "timeMonth": 1416,
+    "time": 1562,
+    "timeDay": 1365,
+    "timeWeek": 1329,
+    "timeMonth": 1420,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2025-02-27": 39
+      "2025-02-27": 46
     }
   }
 ]
