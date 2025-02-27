@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3430,
-    "timeDay": 3264,
-    "timeWeek": 3336,
-    "timeMonth": 3329,
-    "timeYear": 3445,
+    "time": 3434,
+    "timeDay": 5375,
+    "timeWeek": 3661,
+    "timeMonth": 3401,
+    "timeYear": 3449,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://blog.freelance-jp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freelance-jp.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1562,
-    "timeDay": 1365,
-    "timeWeek": 1329,
-    "timeMonth": 1420,
+    "time": 1542,
+    "timeDay": 1292,
+    "timeWeek": 1332,
+    "timeMonth": 1421,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2025-02-27": 46
+      "2025-02-27": 39
     }
   }
 ]
