@@ -7,6 +7,12 @@ sites:
     url: https://www.freelance-jp.org/
   - name: blog
     url: https://blog.freelance-jp.org/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
+
 assignees:
   - keizo3
   - ogaty
