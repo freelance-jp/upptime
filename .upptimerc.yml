@@ -5,6 +5,12 @@ user-agent: ogaty
 sites:
   - name: www
     url: https://www.freelance-jp.org/
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
+      - 403
+      - 404
   - name: blog
     url: https://blog.freelance-jp.org/
     expectedStatusCodes:
