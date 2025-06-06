@@ -6,9 +6,9 @@
     "slug": "www",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 3507,
     "timeDay": 6009,
@@ -16,7 +16,7 @@
     "timeMonth": 4149,
     "timeYear": 3556,
     "dailyMinutesDown": {
-      "2025-06-06": 70,
+      "2025-06-06": 66,
       "2025-06-05": 21,
       "2025-05-30": 26,
       "2025-05-29": 22
