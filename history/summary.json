@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 2763,
-    "timeDay": 1418,
-    "timeWeek": 1264,
-    "timeMonth": 1243,
-    "timeYear": 2471,
-    "dailyMinutesDown": {
-      "2025-06-06": 66
-    }
+    "uptimeYear": "99.99%",
+    "time": 2759,
+    "timeDay": 1485,
+    "timeWeek": 1265,
+    "timeMonth": 1264,
+    "timeYear": 2437,
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1516,
-    "timeDay": 1451,
-    "timeWeek": 1497,
-    "timeMonth": 1361,
-    "timeYear": 1541,
+    "timeDay": 1971,
+    "timeWeek": 1548,
+    "timeMonth": 1395,
+    "timeYear": 1493,
     "dailyMinutesDown": {}
   }
 ]
